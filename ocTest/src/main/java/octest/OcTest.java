@@ -1,4 +1,4 @@
-package ocTest;
+package octest;
 
 import java.util.Scanner;
 
